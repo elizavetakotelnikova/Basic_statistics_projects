@@ -1,0 +1,1 @@
+This directory consists of some small projects, created for practicing ANOVA.
